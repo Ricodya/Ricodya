@@ -1,20 +1,20 @@
-# Hi 👋, I'm Riya Sagar
+# Hi , I'm Riya Sagar
 
 ### Aspiring Data Analyst from India 🇮🇳
 
 I am a final-year B.Tech Computer Science student passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Research.
 
-## 🎓 Education
+##  Education
 
 - B.Tech in Computer Science & Engineering
 - JIMS Engineering Management Technical Campus
 
-## 💼 Experience
+##  Experience
 
 - Ex-Research Intern @ CSIR–National Physical Laboratory (CSIR-NPL)
 - Industrial Training @ Indraprastha Power Generation Company Ltd. (IPGCL)
 
-## 🛠️ Skills
+##  Skills
 
 - Python
 - SQL
@@ -25,35 +25,22 @@ I am a final-year B.Tech Computer Science student passionate about Data Analytic
 - Data Analysis
 - Excel
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - 🔬 SpaceDNA – AI Framework for DNA Mutation Risk Prediction
 - 🌾 Millet Data Forecasting using Machine Learning
 - 📄 ClaimIQ – AI-Powered PDF Claim Analysis System
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Power BI
 - SQL
 - Advanced Data Analytics
 
-## 📫 Connect with Me
+##  Connect with Me
 
-- LinkedIn: *(We'll add your profile link later.)*
+- LinkedIn: ()
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
-<!--
-**Ricodya/Ricodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
