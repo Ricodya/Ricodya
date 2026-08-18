@@ -39,7 +39,7 @@ I am a final-year B.Tech Computer Science student passionate about Data Analytic
 
 ##  Connect with Me
 
-- LinkedIn: ()
+- LinkedIn: www.linkedin.com/in/riyasagar01
 
  Thanks for visiting my profile!
 
